@@ -10,20 +10,15 @@ This archive will be updated whenever the team gains more data.
 
 Currently our development team is looking for anyone who still has PlayStation Home on there PS3 console, any data we can obtain can help the preservation for home. Our primary goal is to get Home back running online. So our team has been working on trying to emulate Sony's Medius server via using the PlayStation 3 CFW & RPCS3.
 
-
-
-
-
 ## Release History
-[https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Development%20Scene%20List.csv]
-* 4/15/2021:[https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Development%20Scene%20List.csv]  
-* (https://github.com/NagatoDev/)
-    * Added CDN ID's + New Private Spaces.
+
+* 4/15/2021
+    * Added CDN ID's + New Private Spaces to the list.
 
 ## Contact Me
 
 My Twitter: [@NagatoRevenge](https://twitter.com/NagatoRevenge)
 
+# Social Media: 
 
-[https://github.com/NagatoDEV]
-
+![Discord Banner 4](https://discordapp.com/api/guilds/621722473695805450]/widget.png?style=banner4)
