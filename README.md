@@ -1,41 +1,23 @@
-# PlayStation-Home-Scene-List-Spreasheet
-The purpose of this repository is to keep an archive of all of the scenes that has been obtained by the Destination Home Team. This includes public, private, and development scenes from all regions of home (SCEA/SCEE/SCEJ/SCEAsia). 
+# PlayStation Home Scene List
 
-**Additional Information**
-
-This archive will be updated whenever the team gains more data.
-
-**How can you help out the project?**
-
-Currently our development team is looking for anyone who still has PlayStation Home on there PS3 console, any data we can obtain can help the preservation for home. Our primary goal is to get Home back running online. So our team has been working on trying to emulate Sony's Medius server via using the PlayStation 3 CFW & RPCS3.
-
---------------------------------------------------------------------------------
-
-For more information on how to donate cache data please refer to this guide: https://www.youtube.com/watch?v=BppPWh49ROU&feature=youtu.be
-
-**Our team is also looking for any Development/PROD-QA/Alpha-Beta/Retail builds of PlayStation Home which included's:**
-
-* NPEA00013: Development, Alpha, Beta, PROD-QA
-
-* NPIA00010: Development & PROD-QA 
-
-* NPIA00005: Retail
-
--------------------------------------------------------
-
-❤️ Join/Check out our social platforms:
-
-➤ Destination Home Preservation Official Discord: https://discord.gg/PlayStationHome
-
-➤ Destination Home Official Website: http://destinationho.me/
-
-➤ Destination Home Preservation (Alternative Discord Link): https://discord.gg/QguSBT3
-
-➤ Destination Home Twitch Channel: https://www.twitch.tv/playstationhome/
-
-➤ Destination Home Official YouTube Channel: https://www.youtube.com/channel/UCQhwhFevEgsRqMTHof7FwPQ
-
-➤ Destination Home 1.86 Dev Offline Client Patches: https://github.com/NagatoDEV/Destination-Home-1.86-Offline-Client-Patches
+The purpose of this repository is to keep an archive of all of the scenes that has been obtained by the Destination Home Team. This includes public, private, and development scenes from all regions of home (SCEA/SCEE/SCEJ/SCEAsia).
 
 
-**Disclaimer: This repository is purely for preservation and educational purposes.**
+
+One to two paragraph statement about your product and what it does.
+
+(![SHOT02](https://user-images.githubusercontent.com/67494727/114950817-dfc0dc80-9e21-11eb-89e4-33f00a09a3c8.PNG)
+
+
+## Release History
+
+* 4/15/2021
+    * Added CDN ID's + New Private Spaces.
+
+## Contact Me
+
+[@NagatoRevenge](https://twitter.com/NagatoRevenge)
+
+
+[https://github.com/yourname/github-link](https://github.com/NagatoDEV)
+
