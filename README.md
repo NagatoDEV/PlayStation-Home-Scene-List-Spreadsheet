@@ -19,5 +19,5 @@ One to two paragraph statement about your product and what it does.
 [@NagatoRevenge](https://twitter.com/NagatoRevenge)
 
 
-[https://github.com/yourname/github-link](https://github.com/NagatoDEV)
+[https://github.com/NagatoDEV]
 
