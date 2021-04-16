@@ -1,14 +1,17 @@
 ﻿ID,Scene Type (Private/Public),Region,CDN ID,Slug ID:,Notes
-ホームスクエア SCEJ Home Square (Hatsune Miku Edition),Public,SCEJ,,,Limited Time Event
-ホームスクエア SCEJ Home Square (Halloween Event 2010),Public,SCEJ,,,Limited Time Event
-ホームスクエア SCEJ Home Square (MACROSS Frontier Event),Public,SCEJ,,,Limited Time Event
-IREM R-Type Lounge,Public,SCEJ/SCEAsia,J_IREM_RTYPE_LOUNGE_5963_6F4D,,
-IREM Gekito Meadows (真ゲ・キトー草原),Public,SCEJ,IREM_SCEAsia_CastleW_7F83_C5D2,,
-IREM Headquaters,Public,SCEJ,null,,
 "	
 ライアーゲーム Liar Game",Public,SCEJ,SCEJ_LiarGame_E7F6_5A20,,
-Tokyo Game Show Event Theatre 2011,Public,SCEJ,TGS_2011_Scene_7042_C1CF,,Limited Time Event
-Sony Aquarium VR 黒潮の海,Public,SCEJ,Sony_Aquarium_F221_8BC4,,Limited Time Event
-マクロスFプレミアムライブ,Public,SCEJ,Macross_Public_Space_7395_6732,,Limited Time Event
 Capcom Sky Lounge Autumn Version,Public,SCEJ,Capcom_Event_Autumn_D687_77C2,,
-Capcom Sky Lounge Winter Version,Public,,,,
+Capcom Sky Lounge Winter Version,Public,SCEJ,,,
+Central Plaza Version 1 (Closed Beta),Public,SCEA,,,Was available during Private-Beta versions 0.98 & lower.
+IREM Gekito Meadows (真ゲ・キトー草原),Public,SCEJ,IREM_SCEAsia_CastleW_7F83_C5D2,,
+IREM Headquaters,Public,SCEJ,null,,
+IREM R-Type Lounge,Public,SCEJ/SCEAsia,J_IREM_RTYPE_LOUNGE_5963_6F4D,,
+"Singstar VIP ""Dizzee Rascal"" Event",Public,SCEE,,,Limited Time Event exclusive to SCEE
+Sony Aquarium VR 黒潮の海,Public,SCEJ,Sony_Aquarium_F221_8BC4,,Limited Time Event
+Tokyo Game Show Event Theatre 2011,Public,SCEJ,TGS_2011_Scene_7042_C1CF,,Limited Time Event
+ホームスクエア SCEJ Home Square (Closed Beta),Public,SCEJ,,,Pre-Beta exclusive to SCEJ.
+ホームスクエア SCEJ Home Square (Halloween Event 2010),Public,SCEJ,,,Limited Time Event
+ホームスクエア SCEJ Home Square (Hatsune Miku Edition),Public,SCEJ,,,Limited Time Event
+ホームスクエア SCEJ Home Square (MACROSS Frontier Event),Public,SCEJ,,,Limited Time Event
+マクロスFプレミアムライブ,Public,SCEJ,Macross_Public_Space_7395_6732,,Limited Time Event
