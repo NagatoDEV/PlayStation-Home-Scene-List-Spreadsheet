@@ -13,6 +13,8 @@ This archive will be updated whenever the team gains more data i.e. obtaining mo
 
 Currently our development team is looking for anyone who still has PlayStation Home on there PS3 console, any data we can obtain can help the preservation for home. Our primary goal is to get Home back running online. So our team has been working on trying to emulate Sony's Medius server via using the PlayStation 3 CFW & RPCS3.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BppPWh49ROU/0.jpg)](https://www.youtube.com/watch?v=BppPWh49ROU)
+
 ## Release History
 
 * 4/15/2021
