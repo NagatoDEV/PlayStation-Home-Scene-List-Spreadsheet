@@ -15,6 +15,12 @@ Currently our development team is looking for anyone who still has PlayStation H
 
 ## Release History
 
+* 4/17/2021
+    * Added new scenes (mostly private spaces from SCEE Region) from 2010 Server Snapshot hosted from `scee-home.playstation.net\c.home\prod\live\Scenes` 
+    
+* 4/16/2021
+   * Added a new spreadsheet detailed as `Missing Scene List.csv` to document the current spaces that the Destination Home team is missing. Currently this sheet is still in a WIP state and I only added most SCEJ spaces as of `4/16/2021`
+
 * 4/15/2021
     * Added CDN ID's + New Private Spaces to the list.
 
