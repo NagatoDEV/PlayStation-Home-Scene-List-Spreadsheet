@@ -29,5 +29,4 @@ Currently our development team is looking for anyone who still has PlayStation H
 My Twitter: [@NagatoRevenge](https://twitter.com/NagatoRevenge)
 
 # Join the Official Destination Home Discord channel: 
-
-![Discord Banner 4](https://discordapp.com/api/guilds/621722473695805450/widget.png?style=banner4)
+[![Discord Banner 4](https://discordapp.com/api/guilds/621722473695805450/widget.png?style=banner4&raw=true)](https://discord.gg/QguSBT3)
