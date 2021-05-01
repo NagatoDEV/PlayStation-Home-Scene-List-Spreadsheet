@@ -15,6 +15,11 @@ Currently our development team is looking for anyone who still has PlayStation H
 
 ## Release History
 
+* 5/1/2021
+    * Added 17 new scenes, this includes public & private spaces. (All from the SCEA region)
+    * Plus added slug id's & cdn id's for other spaces such as ```Tekken 6 - Mishima Zaibatsu Recreation Floor``` 
+
+
 * 4/17/2021
     * Added new scenes (mostly private spaces from SCEE Region) from 2010 Server Snapshot hosted from `scee-home.playstation.net\c.home\prod\live\Scenes` 
     
