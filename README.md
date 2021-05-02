@@ -16,9 +16,16 @@ Currently our development team is looking for anyone who still has PlayStation H
 ## Release History
 
 * 5/1/2021
+    * Added 5 new spaces and one scene script object.
+      * Acorn Meadows Park VEEEMEE [1305671865_DAT] {HDK 1.80.0.53.PUB} {1.3.0 SE}
+      * Aurora Entrance Scene Script [2994415150_DAT] {HDK 1.80.0.53.PUB} {1.3.0 SE}
+      * nRage [3254593671_DAT] {HDK 1.70.0.93.PUB} {1.3.0 SE}
+      * SCEA Sports Walk [1307437186_DAT] {HDK 1.70.0.93.PUB} {1.3.0 SE}
+      * SCEE Home Square Version 3 [3856013375_DAT] {HDK 1.75.0.85.PUB} {1.3.0 SE}
+
+* 5/1/2021
     * Added 17 new scenes, this includes public & private spaces. (All from the SCEA region)
     * Plus added slug id's & cdn id's for other spaces such as ```Tekken 6 - Mishima Zaibatsu Recreation Floor``` 
-
 
 * 4/17/2021
     * Added new scenes (mostly private spaces from SCEE Region) from 2010 Server Snapshot hosted from `scee-home.playstation.net\c.home\prod\live\Scenes` 
