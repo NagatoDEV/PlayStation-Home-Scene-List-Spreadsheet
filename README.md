@@ -17,6 +17,7 @@ Currently our development team is looking for anyone who still has PlayStation H
 
 * 5/1/2021
     * Added 5 new spaces and one scene script object.
+    
       * Acorn Meadows Park VEEEMEE [1305671865_DAT] {HDK 1.80.0.53.PUB} {1.3.0 SE}
       * Aurora Entrance Scene Script [2994415150_DAT] {HDK 1.80.0.53.PUB} {1.3.0 SE}
       * nRage [3254593671_DAT] {HDK 1.70.0.93.PUB} {1.3.0 SE}
