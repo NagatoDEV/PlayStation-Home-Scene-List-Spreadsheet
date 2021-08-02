@@ -1,13 +1,17 @@
 # PlayStation Home Scene List
 
-The purpose of this repository is to keep an archive of all of the scenes that has been obtained by the [Destination Home Team](http://destinationho.me/). This includes public, private, and development scenes from all regions of home (SCEA/SCEE/SCEJ/SCEAsia).
+The purpose of this repository is to keep an archive of all of the scenes that has been obtained by the [Destination Home Team](http://destinationho.me/). This includes public, private, and development scenes from all regions of home (SCEA/SCEE/SCEJ/SCEAsia). 
+
+* For the **Public/Personal** space scene list click [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv). Moreover, if you want to see our current archive of *rare* development home spaces check out this [spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Development%20Scene%20List.csv).
+
+* To see what current spaces that the Destination Home Team is missing you can view our **missing scene list spreadsheet** [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv)
 
 ![SHOT03](https://user-images.githubusercontent.com/67494727/114953028-80fd6200-9e25-11eb-9607-54ae9d38986b.PNG)
 
 
-# Additional Information
+# Additional Information:
 
-This archive will be updated whenever the team gains more data i.e. obtaining more scenes.
+This archive will be updated whenever the team gains more data i.e, obtaining more scenes.
 
 ## How can you help out the project?
 
@@ -17,11 +21,21 @@ For more information on how to donate cache data please refer to this [video gui
 
 ## Release History
 
+* 8/2/2021
+
+ * Added 1 personal space: 
+    
+      * Ratchet & Clank: Home Sweet Home {HDK 1.3.0.125.BETA1} {1.3.0 SE}
+
+---
+
 * 5/25/2021
 
- * Added 1 new spaces 
+ * Added 1 new spaces:
     
       * Cinema Auditorium [2292267020_DAT] {HDK 1.3.6.22.PUB} {1.3.0 SE}
+
+---
 
 * 5/1/2021
 
@@ -33,20 +47,28 @@ For more information on how to donate cache data please refer to this [video gui
       * SCEA Sports Walk [1307437186_DAT] {HDK 1.70.0.93.PUB} {1.3.0 SE}
       * SCEE Home Square Version 3 [3856013375_DAT] {HDK 1.75.0.85.PUB} {1.3.0 SE}
 
+---
+
 * 5/1/2021
     * Added 17 new scenes, this includes public & private spaces. (All from the SCEA region)
     * Plus added slug id's & cdn id's for other spaces such as ```Tekken 6 - Mishima Zaibatsu Recreation Floor``` 
 
 * 4/17/2021
     * Added new scenes (mostly private spaces from SCEE Region) from 2010 Server Snapshot hosted from `scee-home.playstation.net\c.home\prod\live\Scenes` 
-    
+
+---
+
 * 4/16/2021
    * Added a new spreadsheet detailed as `Missing Scene List.csv` to document the current spaces that the Destination Home team is missing. Currently this sheet is still in a WIP state and I only added most SCEJ spaces as of `4/16/2021`
+
+---
 
 * 4/15/2021
     * Added CDN ID's + New Private Spaces to the list.
 
-## Contact Me
+---
+
+## Do you have some old Home data on a dusty hard-drive? Feel free to contact me!
 
 My Twitter: [@NagatoRevenge](https://twitter.com/NagatoRevenge)
 
