@@ -23,21 +23,21 @@ For more information on how to donate cache data please refer to this [video gui
 
 * 8/2/2021
 
- * Added 1 personal space: 
+     * Added 1 personal space: 
     
-      * Ratchet & Clank: Home Sweet Home {HDK 1.3.0.125.BETA1} {1.3.0 SE}
+        * Ratchet & Clank: Home Sweet Home {HDK 1.3.0.125.BETA1} {1.3.0 SE}
 
 ---
 
 * 5/25/2021
 
- * Added 1 new spaces:
+ * Added 1 new space:
     
       * Cinema Auditorium [2292267020_DAT] {HDK 1.3.6.22.PUB} {1.3.0 SE}
 
 ---
 
-* 5/1/2021
+* 5/2/2021
 
     * Added 5 new spaces and one scene script object.
     
@@ -50,6 +50,7 @@ For more information on how to donate cache data please refer to this [video gui
 ---
 
 * 5/1/2021
+
     * Added 17 new scenes, this includes public & private spaces. (All from the SCEA region)
     * Plus added slug id's & cdn id's for other spaces such as ```Tekken 6 - Mishima Zaibatsu Recreation Floor``` 
 
