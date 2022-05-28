@@ -4,7 +4,7 @@ The purpose of this repository is to keep an archive of all of the scenes that h
 
 * For the **Public/Personal** space scene list click [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv). Moreover, if you want to see our current archive of *rare* development home spaces check out this [spreadsheet](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Development%20Scene%20List.csv).
 
-* To see what current spaces that the Destination Home Team is missing you can view our **missing scene list spreadsheet** [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv)
+* To see what current spaces that the Destination Home Team is missing you can view our **missing scene list spreadsheet** [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv).
 
 ![SHOT03](https://user-images.githubusercontent.com/67494727/114953028-80fd6200-9e25-11eb-9607-54ae9d38986b.PNG)
 
