@@ -28,15 +28,13 @@ The purpose of this repository is to keep an archive of all of the scenes that h
 
 # Additional Information:
 
-This archive will be updated whenever the team gains more data i.e, obtaining more scenes.
+This archive will be updated whenever the team gains more scenes from users cache donations.
 
 ## How can you help out the project?
 
-Currently our development team is looking for anyone who still has PlayStation Home on there PS3 console, any data we can obtain can help the preservation for home. Our primary goal is to get Home back running online. So our team has been working on trying to emulate Sony's Medius server via using the PlayStation 3 CFW & RPCS3.
+For more information on how you can [donate](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) your old Home data which helps restore original Home content for our emulated networking services e.g., original spaces, clothing objects, video content, minigames & other core functional objects that is needed for PlayStation®Home online.
 
-For more information on how to donate cache data please refer to this [video guide](https://www.youtube.com/watch?v=BppPWh49ROU&feature=youtu.be) Alternatively you can check out my written version of this guide [here](https://gist.github.com/NagatoDEV/587b5a76a1789a9d91c48e87c634771b).
-
-## Release History
+## Release History 📜
 
 * **2/24/2023**
 
