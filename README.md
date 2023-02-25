@@ -1,6 +1,5 @@
 # <h1 align="center">**PlayStation Home Scene List Project**</h1>
-
-![SHOT03](https://user-images.githubusercontent.com/67494727/114953028-80fd6200-9e25-11eb-9607-54ae9d38986b.PNG)
+![sample](https://user-images.githubusercontent.com/67494727/221376017-359270d9-b895-40b0-9c82-1861fa9ac999.png)
 
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
