@@ -1,4 +1,4 @@
-# <h1 align="center">**PlayStation Home Scene List**</h1>
+# <h1 align="center">**PlayStation Home Scene List Project**</h1>
 
 <p align="center">
   <a href="https://discord.gg/QguSBT3"><img src="https://img.shields.io/badge/Discord-Destination%20Home-%235865F2"></a>
