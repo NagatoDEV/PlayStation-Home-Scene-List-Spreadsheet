@@ -26,7 +26,7 @@ The purpose of this repository is to keep an archive of all of the scenes that h
 
 * To see what current spaces that the Destination Home Team is missing you can view our **missing scene list spreadsheet** [here](https://github.com/NagatoDEV/PlayStation-Home-Scene-List-Spreadsheet/blob/main/Destination%20Home%20Archive%20Public-Private%20Scene%20List.csv).
 
-# Additional Information:
+## Additional Information ℹ️
 
 This archive will be updated whenever the team gains more scenes from users cache donations.
 
@@ -99,6 +99,3 @@ For more information on how you can [donate](https://nagato.gitbook.io/playstati
 
 My Twitter: [@NagatoRevenge](https://twitter.com/NagatoRevenge)
 
-# Join the Official Destination Home Discord channel: 
-
-[![Discord Banner 4](https://discordapp.com/api/guilds/621722473695805450/widget.png?style=banner4&raw=true)](https://discord.gg/QguSBT3)
